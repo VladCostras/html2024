@@ -54,3 +54,24 @@ td, th {
 tr:nth-child(even) {
     background-color: #dddddd;
 }
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.container { 
+    display: flex; 
+    flex-direction: column; 
+    flex-wrap: wrap; 
+    height: 50%; 
+    width: 100%; 
+} 
+
+.ursi { 
+    width: 50%; 
+    flex: 25%; 
+    margin: 5px;  
+} 
+
