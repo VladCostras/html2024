@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Nova Square';
+    src: url('NovaSquare.eot');
+    src: url('NovaSquare.eot?#iefix') format('embedded-opentype'),
+        url('NovaSquare.woff2') format('woff2'),
+        url('NovaSquare.woff') format('woff'),
+        url('NovaSquare.ttf') format('truetype'),
+        url('NovaSquare.svg#NovaSquare') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
