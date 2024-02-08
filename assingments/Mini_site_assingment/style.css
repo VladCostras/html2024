@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+}
+.main {
+    display: flex;
+    justify-content:space-evenly;
+}
+#Leftsidelinks {
+    width: 20%;
+    padding: 1rem;
+    background-color: rgb(130, 200, 228);
+}
+#content {
+    width: 80%;
+    padding: 1rem;
+    border-left: solid rgb(0, 0, 100) 1px;
+    background-color: rgb(87, 181, 209);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+}
+table, th, td {
+    border: 1px solid green;
+  }
+th {
+    text-align: center;
+}
+
+.links {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+}
